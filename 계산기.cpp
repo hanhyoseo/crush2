@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-//hellow
+//hello
 struct Token {
     char kind;
     double value;
